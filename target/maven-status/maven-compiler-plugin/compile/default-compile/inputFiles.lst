@@ -1,2 +1,4 @@
-/Users/vijaykumarbyahatti/Documents/MySpace/Automation/MyGit/Simple_Proj/src/main/java/UIDriver.java
-/Users/vijaykumarbyahatti/Documents/MySpace/Automation/MyGit/Simple_Proj/src/main/java/DriverUtils.java
+/Users/vijaykumarbyahatti/Documents/MySpace/Automation/MyGit/Simple_Proj/src/main/java/page/MenuBarItemsPage.java
+/Users/vijaykumarbyahatti/Documents/MySpace/Automation/MyGit/Simple_Proj/src/main/java/page/HotelsModulePage.java
+/Users/vijaykumarbyahatti/Documents/MySpace/Automation/MyGit/Simple_Proj/src/main/java/driverHandlers/DriverUtils.java
+/Users/vijaykumarbyahatti/Documents/MySpace/Automation/MyGit/Simple_Proj/src/main/java/driverHandlers/UIDriver.java

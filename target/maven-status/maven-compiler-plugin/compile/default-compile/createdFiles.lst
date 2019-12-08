@@ -1,2 +1,4 @@
-DriverUtils.class
-UIDriver.class
+page/HotelsModulePage.class
+driverHandlers/UIDriver.class
+page/MenuBarItemsPage.class
+driverHandlers/DriverUtils.class

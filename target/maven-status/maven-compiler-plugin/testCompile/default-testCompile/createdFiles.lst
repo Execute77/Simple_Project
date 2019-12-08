@@ -1,2 +1,4 @@
 TestCase.class
 TestCss.class
+verifyHotelModuleHeaders.class
+verifyHomePageHeaders.class

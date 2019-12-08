@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="13.625" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="0.199" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib"/>
     <property name="java.vm.version" value="25.221-b11"/>
     <property name="gopherProxySet" value="false"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="/users/vijaykumarbyahatti/Documents/MySpace/Automation/MyGit/Simple_Proj"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/vijaykumarbyahatti/Documents/MySpace/Automation/MyGit/Simple_Proj"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=":"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -38,7 +38,7 @@
     <property name="user.timezone" value="Asia/Kolkata"/>
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
-    <property name="file.encoding" value="UTF-8"/>
+    <property name="file.encoding" value="US-ASCII"/>
     <property name="user.name" value="vijaykumarbyahatti"/>
     <property name="java.class.path" value="/usr/local/Cellar/maven/3.6.2/libexec/boot/plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="iTestCSS" classname="TestCss" time="13.625"/>
+  <testcase name="verifyHeader" classname="verifyHomePageHeaders" time="0.199"/>
 </testsuite>

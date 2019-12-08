@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Test Suite" duration-ms="13631" started-at="2019-12-06T19:19:31Z" finished-at="2019-12-06T19:19:45Z">
+  <suite name="Test Suite" duration-ms="205" started-at="2019-12-08T06:48:09Z" finished-at="2019-12-08T06:48:09Z">
     <groups>
     </groups>
-    <test name="Login and Update Profile Test" duration-ms="13631" started-at="2019-12-06T19:19:31Z" finished-at="2019-12-06T19:19:45Z">
-      <class name="TestCss">
-        <test-method status="PASS" signature="iTestCSS()[pri:0, instance:TestCss@34ce8af7]" name="iTestCSS" duration-ms="13624" started-at="2019-12-07T00:49:31Z" finished-at="2019-12-07T00:49:45Z">
+    <test name="Login and Update Profile Test" duration-ms="205" started-at="2019-12-08T06:48:09Z" finished-at="2019-12-08T06:48:09Z">
+      <class name="verifyHomePageHeaders">
+        <test-method status="PASS" signature="verifyHeader()[pri:0, instance:verifyHomePageHeaders@26b3fd41]" name="verifyHeader" duration-ms="198" started-at="2019-12-08T12:18:09Z" finished-at="2019-12-08T12:18:09Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- iTestCSS -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCss@34ce8af7]" name="tearDown" is-config="true" duration-ms="132" started-at="2019-12-07T00:49:45Z" finished-at="2019-12-07T00:49:45Z">
+        </test-method> <!-- verifyHeader -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:verifyHomePageHeaders@26b3fd41]" name="tearDown" is-config="true" duration-ms="77" started-at="2019-12-08T12:18:09Z" finished-at="2019-12-08T12:18:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- TestCss -->
+      </class> <!-- verifyHomePageHeaders -->
     </test> <!-- Login and Update Profile Test -->
   </suite> <!-- Test Suite -->
 </testng-results>
